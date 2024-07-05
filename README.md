@@ -28,6 +28,7 @@ updated with the latest industry trends.
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
+![Nest JS](https://img.shields.io/badge/nestjs-%23323330.svg?style=flat&logo=nestjs&logoColor=%23ea2845)
 ![Jest](https://img.shields.io/badge/Jest-red?style=flat&logo=Jest&logoColor=white)
 ![Testing Library](https://img.shields.io/badge/React%20Testing%20Library-red?style=flat&logo=testing-library&logoColor=white)
 
